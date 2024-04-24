@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhilSilvia/project-recipe-book/static/css/main.32076c2f.css",
+    "main.js": "/PhilSilvia/project-recipe-book/static/js/main.09579402.js",
+    "index.html": "/PhilSilvia/project-recipe-book/index.html",
+    "main.32076c2f.css.map": "/PhilSilvia/project-recipe-book/static/css/main.32076c2f.css.map",
+    "main.09579402.js.map": "/PhilSilvia/project-recipe-book/static/js/main.09579402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32076c2f.css",
+    "static/js/main.09579402.js"
+  ]
+}
